@@ -105,7 +105,7 @@ Welcome! This repository tracks my learning journey as I transition from Manual 
 
 ---
 
-## 🗓️ Weekly Journal (Optional)
+## 🗓️ Weekly Journal
 
 ### Week 1
 - ✅ Learned Playwright CLI
@@ -114,4 +114,4 @@ Welcome! This repository tracks my learning journey as I transition from Manual 
 
 ---
 
-📌 _This repository is a live log of my growth as a QA Automation Engineer. It reflects real skills I’m developing while working and studying on the side.
+📌 This repository is a live log of my growth as a QA Automation Engineer. It reflects real skills I’m developing while working and studying on the side.
