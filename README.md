@@ -11,7 +11,7 @@ Welcome! This repository tracks my learning journey as I transition from Manual 
 ## 🔗 Trello Board for Task Tracking
 
 📌 See my current work-in-progress tasks and planning here:  
-👉 [My QA Learning Trello Board](https://trello.com/your-board-link)
+👉 [My QA Learning Trello Board](https://trello.com/b/Nmy5MGiS)
 
 ---
 
